@@ -202,5 +202,3 @@ The primary document for evaluation is located at:
 
 ---
 *Created for Logistics Data Analyst Internship — Week 1 Project.*
-#   W e e k - 1 - T a s k - S t r a t e g i c - P l a n n i n g - a n d - D a t a - E x p l o r a t i o n - i n - L o g i s t i c s  
- 
