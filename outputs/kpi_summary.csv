@@ -1,0 +1,12 @@
+KPI Category,KPI Name,Value,Numeric Value,Target Baseline,Formula / Definition
+Service Quality,On-Time Delivery Rate,60.08%,60.08,92.0%,(On-Time Deliveries / Total Deliveries) * 100
+Service Quality,Delivery Delay Rate,39.92%,39.92,< 8.0%,(Delayed Deliveries / Total Deliveries) * 100
+Operational Speed,Average Delivery Time,6.99 days,6.99,3.5 days,Total Delivery Time / Total Shipments
+Operational Speed,Average Delay Duration,1.83 days,1.83,< 1.5 days,Sum of Delay Days / Total Delayed Shipments
+Cost Efficiency,Average Transportation Cost,$1145.91,1145.91,< $850.00,Total Shipping Cost / Total Shipments
+Cost Efficiency,Cost per Shipment,$1145.91,1145.91,< $850.00,Total Shipping Cost / Total Shipments
+Inventory & Warehouse,Order Fulfillment Rate,98.65%,98.65,99.0%,(Fulfilled Orders / Total Orders) * 100
+Inventory & Warehouse,Inventory Turnover,46.23x,46.23,55.0x,Total Quantity Shipped / Average Inventory Level
+Inventory & Warehouse,Warehouse Utilization Rate,68.17%,68.17,75.0% - 85.0%,Average (Inventory Level / Warehouse Capacity) * 100
+Network & Route,Average Distance per Delivery,1127.65 km,1127.65,N/A (Network Descriptor),Total Distance / Total Shipments
+Network & Route,Route Efficiency Index,163.27 km/day,163.27,> 300 km/day,Average (Distance / Actual Delivery Time)
